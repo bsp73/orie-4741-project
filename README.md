@@ -1,6 +1,3 @@
-# Project Name: Playlist Creator
-# Akshay Yadava (aay29), Ben Polson (bsp73)
-# Project Idea: Our goal of this project is to 
-# generate a playlist of songs for a user given
-# their input preferences relative to different 
-# audio metrics. 
+# Spotify Song Selector
+### Ben Polson, with some help from Akshay Yadava
+The goal of this project is to generate a catered song playlist based on a user's preferences using data from the Spotify API. All other information is detailed in the Final Report. This project is ongoing and the Final Report is up to date on current progress.
